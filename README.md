@@ -2,7 +2,7 @@
 A curated list of Sugar Community Edition Add-ons.
 
 ## Contributing
-Please see CONTRIBUTING.md for details.
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## Table of Contents
 - [Category 1](#category-1)
