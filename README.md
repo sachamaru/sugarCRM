@@ -5,39 +5,132 @@ A curated list of Sugar Community Edition Add-ons.
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## Table of Contents
-- [Category 1](#category-1)
-    - [Item 1](#category-1-1)
-    - [Item 2](#category-1-2)
-    - [Item 3](#category-1-3)
-- [Category 2](#category-2)
-    - [Item 1](#category-2-1)
-    - [Item 2](#category-2-2)
-    - [Item 3](#category-2-3)
-- [Category 3](#category-3)
-    - [Item 1](#category-3-1)
-    - [Item 2](#category-3-2)
-    - [Item 3](#category-3-3)
-- [Contributing](#contributing)
 
-## Category 1
-*Category description goes here.*
+- [Account Management](#account-management)
+- [Backup and Recovery](#backup-and-recovery)
+- [Books](#books)
+- [Business Intelligence](#business-intelligence)
+- [Calendaring](#calendaring)
+- [Campaign Management](#campaign-management)
+- [Case Management](#case-management)
+- [Collaboration](#collaboration)
+- [Contact Management](#contact-management)
+- [Contract Management](#contract-management)
+- [Contributions](#contributions)
+- [Cool Gadgets](#cool-gadgets)
+- [Document Creation](#document-creation)
+- [Electronic Signatures](#electronic-signatures)
+- [Email](#email)
+- [Email Marketing](#email-marketing)
+- [Expense Controls](#expense-controls)
+- [Forecasting](#forecasting)
+- [HR Management](#hr-management)
+- [Implementation Services](#implementation-services)
+- [Installation](#installation)
+- [Integration](#integration)
+- [Knowledge Management](#knowledge-management)
+- [Language Packs](#language-packs)
+- [Lead Management](#lead-management)
+- [List Management](#list-management)
+- [Migration](#migration)
+- [Mobile](#mobile)
+- [Opportunity Management](#opportunity-management)
+- [Order Management](#order-management)
+- [Portal](#portal)
+- [Project Management](#project-management)
+- [Quotes and Products](#quotes-and-products)
+- [Reporting](#reporting)
+- [Sales Performance Optimization](#sales-performance-optimization)
+- [Security](#security)
+- [System Administration](#system-administration)
+- [Task Management](#task-management)
+- [Telephony Integration](#telephony-integration)
+- [Training](#training)
+- [Web Self-Service](#web-self-service)
+- [Workflow](#workflow)
 
-* [Item 1](http://example.com/) - A short description of Item 1.
-* [Item 2](http://example.com/) - A short description of Item 2.
-* [Item 3](http://example.com/) - A short description of Item 3.
+## Account Management
 
-## Category 2
-*Category description goes here.*
+* [Item](http://example.com/?link-to-resource) - A short description of an item.
 
-* [Item 1](http://example.com/) - A short description of Item 1.
-* [Item 2](http://example.com/) - A short description of Item 2.
-* [Item 3](http://example.com/) - A short description of Item 3.
+## Backup and Recovery
 
-## Category 3
-*Category description goes here.*
+## Books
 
-* [Item 1](http://example.com/) - A short description of Item 1.
-* [Item 2](http://example.com/) - A short description of Item 2.
-* [Item 3](http://example.com/) - A short description of Item 3.
+## Business Intelligence
 
+## Calendaring
 
+## Campaign Management
+
+## Case Management
+
+## Collaboration
+
+## Contact Management
+
+## Contract Management
+
+## Contributions
+
+## Cool Gadgets
+
+## Document Creation
+
+## Electronic Signatures
+
+## Email
+
+## Email Marketing
+
+## Expense Controls
+
+## Forecasting
+
+## HR Management
+
+## Implementation Services
+
+## Installation
+
+## Integration
+
+## Knowledge Management
+
+## Language Packs
+
+## Lead Management
+
+## List Management
+
+## Migration
+
+## Mobile
+
+## Opportunity Management
+
+## Order Management
+
+## Portal
+
+## Project Management
+
+## Quotes and Products
+
+## Reporting
+
+## Sales Performance Optimization
+
+## Security
+
+## System Administration
+
+## Task Management
+
+## Telephony Integration
+
+## Training
+
+## Web Self-Service
+
+## Workflow
