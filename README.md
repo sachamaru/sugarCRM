@@ -94,6 +94,7 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 ## Installation
 
 ## Integration
+* [Item](https://github.com/chicks/sugarcrm) - A ruby based REST Client for SugarCRM. 
 
 ## Knowledge Management
 
