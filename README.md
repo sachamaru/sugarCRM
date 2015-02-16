@@ -1,11 +1,16 @@
 # SugarCE Add-ons
-A curated list of Sugar Community Edition Add-ons.
+Today, GitHub is recognized by many as the source code management tool of choice for open source development. Fork, pull, clone, are part of every developer’s vernacular. This new CE add-on repository will allow you more control when creating your listings. To list your CE add-on, all you need to do is:
+> 1. Fork this repository
+> 1. Clone your forked copy so you can work locally
+> 1. Update the project’s markdown and listing page
+> 1. Submit a pull request
+
+Make sure to read the [FAQ](FAQ.md) for answers to common questions. Access to sugarforge.org will be removed in early March and all requests will be redirected to the new GitHub repository.  Please migrate your CE add-ons to the GitHub repository in February to ensure a smooth transition to the new infrastructure.
 
 ## Contributing
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+Please see the [contribution guidelines](CONTRIBUTING.md) for details.
 
 ## Table of Contents
-
 - [Account Management](#account-management)
 - [Backup and Recovery](#backup-and-recovery)
 - [Books](#books)
