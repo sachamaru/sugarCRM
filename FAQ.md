@@ -13,7 +13,6 @@ To list your add-on, all you need to do is:
 
 Make sure you are familiar with the [policies and guidelines for listings](CONTRIBUTING.md). Once the pull request comes in, the community managers will simply accept the request and your listing is live.
 
-
 ## Q. Do I upload my .zip file here?
 No! This repository should only be used to create a reference to where you ultimately host your code. Of course, you can create your own github repository and host your code and download there!
 

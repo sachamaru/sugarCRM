@@ -1,7 +1,7 @@
 # SugarCE Add-ons
 Today, GitHub is recognized by many as the source code management tool of choice for open source development. Fork, pull, clone, are part of every developer’s vernacular. 
 
-This new CE add-on repository will allow you more control when creating your listings. This new repository is for listing and reference purposes only and will not contain any downloadable .zip files. Your source code should be in it's own github repository or another place of your choosing. 
+This new CE add-on repository will allow you more control when creating your listings. This new repository is for listing and reference purposes only and will not contain any downloadable .zip files. Your source code should be in it's own github repository or another place of your choosing. If you wish to access or use any of the apps provided in this repository, please see [TERMS OF USE](SugarCE_AddOns_Github_Terms_of_Use_released_2-18-14.md) for details. 
 To list your CE add-on, all you need to do is:
 > 1. Fork this repository
 > 1. Clone your forked copy so you can work locally
@@ -11,7 +11,7 @@ To list your CE add-on, all you need to do is:
  Make sure to read the [FAQ](FAQ.md) for answers to common questions. Access to sugarforge.org will be removed in early March and all requests will be redirected to the new GitHub repository.  Please migrate your CE add-ons to the GitHub repository in February to ensure a smooth transition to the new infrastructure.
 
 ## Contributing
-Please see the [contribution guidelines](CONTRIBUTING.md) for details.
+This is your repository! Everyone is welcome to be involved by creating listings for their add-on, suggest new categories, and otherwise participating in the community. If you would like to contribute, please make sure to review the [CONTRIBUTOR TERMS](SugarCE_AddOns_Contributor_Terms_released_2-18-15.md). When you update this [README](README.md), please check out the [contribution guidelines](CONTRIBUTING.md) for helpful hints and tips that will make it easier to accept your pull request. 
 
 ## Table of Contents
 - [Account Management](#account-management)
