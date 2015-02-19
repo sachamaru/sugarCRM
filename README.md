@@ -75,7 +75,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Case Management
 
 ## CE Code and Zips
-* [Source code for CE on git](https://github.com/sugarcrm/sugarcrm_dev). 
+* [Source code for CE](https://github.com/sugarcrm/sugarcrm_dev) on git .
 * [Prepackaged CE installer zips, upgrade clients/packages, webPI, faststacks](http://sourceforge.net/projects/sugarcrm/) on Sourceforge.net. 
 
 ## Collaboration
