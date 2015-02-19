@@ -21,6 +21,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 - [Calendaring](#calendaring)
 - [Campaign Management](#campaign-management)
 - [Case Management](#case-management)
+- [CE Code/Zips](#ce-code/zips)
 - [Collaboration](#collaboration)
 - [Contact Management](#contact-management)
 - [Contract Management](#contract-management)
@@ -72,6 +73,10 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Campaign Management
 
 ## Case Management
+
+## CE Code/Zips
+* [Source code for CE on git](https://github.com/sugarcrm/sugarcrm_dev). 
+* [Prepackaged CE installer zips, upgrade clients/packages, webPI, faststacks](http://sourceforge.net/projects/sugarcrm/) on Sourceforge.net. 
 
 ## Collaboration
 
