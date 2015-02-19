@@ -1,7 +1,7 @@
 # Contribution Guidelines
 Please ensure your pull request adheres to the following guidelines:
 
-* Listings in the [READMEW.md](README.md) should be for SugarCE only. 
+* Listings in the [README](README.md) should be for SugarCE only. 
 * Please search previous suggestions before making a new one, as yours may be a duplicate.
 * Please make an individual commit for each listing in a pull request.
 * Put a link to each library in your pull request ticket, so they're easier to look at.
