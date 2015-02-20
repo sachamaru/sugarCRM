@@ -2,7 +2,7 @@
 <html class="no-js" lang="en-US">
 <head>
   <meta charset="utf-8">
-  <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge"> -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>Sugar Community Edition Add-ons</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="mobile-web-app-capable" content="no">
@@ -19,42 +19,44 @@
   <![endif]-->
 </head>
 <body>
-  <header>
-    <nav id="nav-main" class="navbar navbar-default navbar-fixed-top">
+  <header role="banner">
+    <nav id="nav-main" class="navbar navbar-default navbar-fixed-top" role="navigation">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <a class="navbar-brand" href="//www.sugarcrm.com" target="_blank"></a>
+            <a class="navbar-brand" href="//www.sugarcrm.com" target="_blank" onclick="ga('send', 'event', 'link', 'Cube', $(this).attr('href')+'?onClick');" onmousedown="ga('send', 'event', 'link', 'Cube', $(this).attr('href')+'?onMouseDown');">
+            </a>
           </div>
         </div>
       </div>
     </nav>
   </header>
-  <div class="content">
+  <main class="content" role="main">
     <div class="container">
       <div class="row">
         <div class="col-md-10 col-md-push-1">
-          <div class="jumbotron">
+          <section class="jumbotron" aria-labelledby="jumbotron-heading">
             <div class="github-fork-ribbon-wrapper right">
               <div class="github-fork-ribbon">
                 <a href="https://github.com/sugarcrm/SugarCE-Add-ons">Fork me on GitHub</a>
               </div>
             </div>
-            <h1>Sugar Community Edition&nbsp;<span style="white-space: nowrap">Add-ons</span></h1>
-			<p>Today, GitHub is recognized by many as the source code management tool of choice for open source development. Fork, pull, clone, are part of every developer’s vernacular. This new CE add-on repository will allow you more control when creating your listings. This new repository is for listing and reference purposes only and will not contain any downloadable .zip files. Your source code should be in it's own github repository or another place of your choosing. If you wish to access or use any of the apps provided in this repository, please see <a href="https://github.com/sugarcrm/SugarCE-Add-ons/blob/master/SugarCE_AddOns_Github_Terms_of_Use_released_2-18-14.md">TERMS OF USE</a> for details. To list your CE add-on, all you need to do is:
-<ul>
-<li>Fork the <a href="https://github.com/sugarcrm/SugarCE-Add-ons">SugarCE-Add-ons</a> repository.</li>
-<li>Clone your forked copy so you can work locally</li>
-<li>Update the project’s markdown and listing page</li>
-<li>Submit a pull request</li>
-				Make sure to read the <a href="https://github.com/sugarcrm/SugarCE-Add-ons/blob/master/FAQ.md">FAQ</a> for answers to common questions. Access to sugarforge.org will be removed in early March and all requests will be redirected to the new GitHub repository. Please migrate your CE add-ons to the GitHub repository in February to ensure a smooth transition to the new infrastructure.
-		    </p>
-          </div>
-          <p></p>
+            <h1 id="jumbotron-heading">Sugar Community Edition&nbsp;<span style="white-space: nowrap">Add-ons</span></h1>
+            <article role="article">
+              <p class="small">Today, GitHub is recognized by many as the source code management tool of choice for open source development. Fork, pull, clone, are part of every developer’s vernacular. This new CE add-on repository will allow you more control when creating your listings. This new repository is for listing and reference purposes only and will not contain any downloadable .zip files. Your source code should be in it's own github repository or another place of your choosing. If you wish to access or use any of the apps provided in this repository, please see <a href="https://github.com/sugarcrm/SugarCE-Add-ons/blob/master/SugarCE_AddOns_Github_Terms_of_Use_released_2-18-14.md">TERMS OF USE</a> for details. To list your CE add-on, all you need to do is:</p>
+              <ul>
+                <li>Fork the <a href="https://github.com/sugarcrm/SugarCE-Add-ons">SugarCE-Add-ons</a> repository.</li>
+                <li>Clone your forked copy so you can work locally</li>
+                <li>Update the project’s markdown and listing page</li>
+                <li>Submit a pull request</li>
+              </ul>
+              <p class="small">Make sure to read the <a href="https://github.com/sugarcrm/SugarCE-Add-ons/blob/master/FAQ.md">FAQ</a> for answers to common questions. Access to sugarforge.org will be removed in early March and all requests will be redirected to the new GitHub repository. Please migrate your CE add-ons to the GitHub repository in February to ensure a smooth transition to the new infrastructure.</p>
+            </article>
+          </section>
         </div>
       </div>
     </div>
-  </div>
+  </main>
   <footer>
     <div class="container">
       <div class="row footer">
