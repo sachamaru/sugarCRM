@@ -90,6 +90,8 @@ This is your repository! Everyone is welcome to be involved by creating listings
 
 ## Document Creation
 
+* [SugarGraphviz](https://github.com/gcoop-libre/sugar-graphviz) - draw entity diagram relationships of Sugar modules including custom tables.
+
 ## Electronic Signatures
 
 ## Email
