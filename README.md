@@ -69,7 +69,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Business Intelligence
 
 ## Calendaring
-
+* [SugarCAL - Real-time sync between SugarCE Calendar and Google](https://sourceforge.net/projects/sugarcal/) on Sourceforge.net.
 ## Campaign Management
 
 ## Case Management
