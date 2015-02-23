@@ -97,6 +97,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Email
 
 ## Email Marketing
+* [SugarChimp - bringing MailChimp and SugarCRM together](https://www.sugaroutfitters.com/addons/SugarChimp) on SugarOutfitters.com. 
 
 ## Expense Controls
 
