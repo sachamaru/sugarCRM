@@ -130,12 +130,13 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Installation
 
 ## Integration
-* [SugarCRM RubyGem](https://github.com/chicks/sugarcrm) - A ruby based REST Client for SugarCRM. 
-* [Marketo Connector - automatic lead conversion & more](https://www.sugaroutfitters.com/addons/marketo-connector) on SugarOutfitters.com. 
-* [SugarChimp - bringing MailChimp and SugarCRM together](https://www.sugaroutfitters.com/addons/SugarChimp) on SugarOutfitters.com. 
-* [Join.Me - bringing Join.Me and SugarCRM together](https://www.sugaroutfitters.com/addons/joinme-meeting-integration) on SugarOutfitters.com. 
-* [GmailSync - sync emails, calendars, contacts, and docs with Google](https://www.sugaroutfitters.com/addons/gmail-sync) on SugarOutfitters.com. 
-* [Google Contacts Synchronization](https://www.sugaroutfitters.com/addons/google-contacts-synchronization) on SugarOutfitters.com. 
+* [GmailSync - sync emails, calendars, contacts, and docs with Google](https://www.sugaroutfitters.com/addons/gmail-sync) on SugarOutfitters.com.
+* [Google Contacts Synchronization](https://www.sugaroutfitters.com/addons/google-contacts-synchronization) on SugarOutfitters.com.
+* [Join.Me - bringing Join.Me and SugarCRM together](https://www.sugaroutfitters.com/addons/joinme-meeting-integration) on SugarOutfitters.com.
+* [Marketo Connector - automatic lead conversion & more](https://www.sugaroutfitters.com/addons/marketo-connector) on SugarOutfitters.com.
+* [SugarChimp - bringing MailChimp and SugarCRM together](https://www.sugaroutfitters.com/addons/SugarChimp) on SugarOutfitters.com.
+* [SugarCRM RubyGem](https://github.com/chicks/sugarcrm) - A ruby based REST Client for SugarCRM.
+* [Yathit InboxCRM: SugarCRM for Gmail](https://github.com/yathit/sugarcrm-gmail-chrome-extension) - Chrome extension to View/Create/Edit SugarCRM records, use  template in Gmail, track email and enhance with social media information.
 
 ## Knowledge Management
 
