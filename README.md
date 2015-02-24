@@ -136,7 +136,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Marketo Connector - automatic lead conversion & more](https://www.sugaroutfitters.com/addons/marketo-connector) on SugarOutfitters.com.
 * [SugarChimp - bringing MailChimp and SugarCRM together](https://www.sugaroutfitters.com/addons/SugarChimp) on SugarOutfitters.com.
 * [SugarCRM RubyGem](https://github.com/chicks/sugarcrm) - A ruby based REST Client for SugarCRM.
-* [Yathit InboxCRM: SugarCRM for Gmail] - Chrome extension to View/Create/Edit SugarCRM records, use  template in Gmail, track email and enhance with social media information.
+* [Yathit InboxCRM: SugarCRM for Gmail](https://github.com/yathit/sugarcrm-gmail-chrome-extension) - Chrome extension to View/Create/Edit SugarCRM records, use  template in Gmail, track email and enhance with social media information.
 
 ## Knowledge Management
 
