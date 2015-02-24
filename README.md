@@ -135,7 +135,8 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [SugarChimp - bringing MailChimp and SugarCRM together](https://www.sugaroutfitters.com/addons/SugarChimp) on SugarOutfitters.com. 
 * [Join.Me - bringing Join.Me and SugarCRM together](https://www.sugaroutfitters.com/addons/joinme-meeting-integration) on SugarOutfitters.com. 
 * [GmailSync - sync emails, calendars, contacts, and docs with Google](https://www.sugaroutfitters.com/addons/gmail-sync) on SugarOutfitters.com. 
-* [Google Contacts Synchronization](https://www.sugaroutfitters.com/addons/google-contacts-synchronization) on SugarOutfitters.com. 
+* [Google Contacts Synchronization](https://www.sugaroutfitters.com/addons/google-contacts-synchronization) on SugarOutfitters.com.
+* [Yathit InboxCRM: SugarCRM for Gmail] - Chrome extension to View/Create/Edit SugarCRM records, use  template in Gmail, track email and enhance with social media information.
 
 ## Knowledge Management
 
