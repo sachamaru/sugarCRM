@@ -154,7 +154,8 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Migration
 
 ## Mobile
-
+* [QuickCRM](http://www.quickcrm.fr/mobile/fr) on www.quickcrm.fr/mobile.
+* 
 ## Opportunity Management
 * [SugarTilkee - bringing Tilkee and SugarCRM together](https://github.com/timtilkee/tilkee-sugarcrm) - Tilkee is a simple SAAS tool used by sales teams to raise their closing rate, by tracking business proposal and forecast sales.
 * [Oportunity Org Chart - quickly identify key stackholders](https://www.sugaroutfitters.com/addons/loaded-advanced-opportunity-organization-chart) on SugarOutfitters.com. 
