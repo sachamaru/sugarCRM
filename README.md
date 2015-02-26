@@ -210,5 +210,6 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Web Self-Service
 
 ## Workflow
+* [Advanced Workflows](https://github.com/gcoop-libre/sugarcrm_advanced_workflows) This workflow engine is inspired by Sebastian Bergman "Design and Implementation of Workflow Engine" paper.
 * [Process Manager Enterprise - automate your business processes](https://www.sugaroutfitters.com/addons/process-manager-enterprise) on SugarOutfitters.com. 
 * [Project Task Notifications - get notified when assigned a project task](https://www.sugaroutfitters.com/addons/email-notification-enabled-for-project-task) on SugarOutfitters.com. 
