@@ -142,7 +142,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 
 ## Language Packs
 * [Swedish Translation](https://www.sugaroutfitters.com/addons/swedish-translation-for-sugarcrm) on SugarOutfitters.com. 
-* [RUSSIAN RAPIRA LANGUAGE PACK](https://github.com/likhobory/SuiteCRM7RU/blob/ver.7.0.1/rapira-suite_pack_russian-7.0.1.zip?raw=true) on GitHub.com. 
+* [RUSSIAN RAPIRA LANGUAGE PACK](https://github.com/likhobory/SuiteCRM7RU) on GitHub.com. 
 
 ## Lead Management
 * [SugarTilkee - bringing Tilkee and SugarCRM together](https://github.com/timtilkee/tilkee-sugarcrm) - Tilkee is a simple SAAS tool used by sales teams to raise their closing rate, by tracking business proposal and forecast sales.
