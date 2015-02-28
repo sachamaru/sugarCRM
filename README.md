@@ -66,6 +66,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 
 ## Books
 * [Russian Rapira Application Guide for Sugar CE] (https://github.com/likhobory/SuiteCRM7RU/blob/master/RRAG_6.2.1.pdf)
+
 ## Business Intelligence
 
 ## Calendaring
