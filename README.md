@@ -54,6 +54,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 - [System Administration](#system-administration)
 - [Task Management](#task-management)
 - [Telephony Integration](#telephony-integration)
+- [Theme](#theme)
 - [Training](#training)
 - [Web Self-Service](#web-self-service)
 - [Workflow](#workflow)
@@ -209,6 +210,11 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [All-In-One CTI - call pops & more. Works with most popular PBXs](https://www.sugaroutfitters.com/addons/allinone-cti) on SugarOutfitters.com.
 * [SMS Add-on - send SMS right from Sugar](https://www.sugaroutfitters.com/addons/sms-addon) on SugarOutfitters.com. 
 * [Quick2SMS SMS Messaging - outbound marketing via SMS](https://www.sugaroutfitters.com/addons/quick2sms-sugarcrm-fibrecrm) on SugarOutfitters.com. 
+
+## Theme
+* [Blue Theme for SugarCRM CE](http://www.youaddon.com/portfolio/detail/3/YouAddOn-Sugar-CRM-Blue-Theme-for-CE) on YouAddOn.com.
+* [Metro Theme for SugarCRM CE](http://www.youaddon.com/portfolio/detail/13/Sugar-CRM-Metro-Theme-Theme-for-CE) on YouAddOn.com.
+* [Salesforce Theme for SugarCRM CE](http://www.youaddon.com/portfolio/detail/6/Sugar-CRM-Salesforce-Theme-for-CE) on YouAddOn.com. 
 
 ## Training
 
