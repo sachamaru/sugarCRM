@@ -27,7 +27,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 - [Contract Management](#contract-management)
 - [Contributions](#contributions)
 - [Cool Gadgets](#cool-gadgets)
-- [Document Creation](#document-creation)
+- [Document Creation & Management](#document-creation--management)
 - [Electronic Signatures](#electronic-signatures)
 - [Email](#email)
 - [Email Marketing](#email-marketing)
@@ -103,7 +103,15 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Insight Tooltips - save hundreds of clicks every day](https://www.sugaroutfitters.com/addons/insight-tooltips) on SugarOutfitters.com. 
 * [What Time Is It? - see what time it is for any contact, etc](https://www.sugaroutfitters.com/addons/time-now) on SugarOutfitters.com. 
 
-## Document Creation
+## Document Creation & Management
++* [GroupDocs.Viewer](http://groupdocs.com/marketplace/plugins/viewer/sugarcrm) - This plugin for SugarCRM can be used to embed GroupDocs’ high-fidelity online document viewer, GroupDocs Viewer, along with selected documents to your SugarCRM webpages.
++* [GroupDocs.Assembly](http://groupdocs.com/marketplace/plugins/assembly/sugarcrm) - This plugin lets you embed documents along with GroupDocs’ document assembly app on SugarCRM pages.
++* [GroupDocs.Annotation](http://groupdocs.com/marketplace/plugins/annotation/sugarcrm) - This plugin lets you embed your preferred documents with GroupDocs’ document annotator on SugarCRM pages.
++* [GroupDocs.Signature](http://groupdocs.com/marketplace/plugins/signature/sugarcrm) - Collect signatures online by embedding documents as digital forms.
++* [GroupDocs.Comparison](http://groupdocs.com/marketplace/plugins/comparison/sugarcrm) - This plugin allows you to compare two versions of a document from within your SugarCRM account.
++* [GroupDocs Viewer for .NET Module](https://github.com/groupdocs/sugarcrm-viewer-dotnet) - This module allows you to integrate a .NET version of GroupDocs' online document viewer into SugarCRM. Open and view PDF, Microsoft Word, Excel, PowerPoint and over 40 other file formats directly from SugarCRM.
++* [GroupDocs.Annotation for .NET](https://github.com/groupdocs/sugarcrm-annotation-dotnet) - This module integrates a downloadable .NET version of the GroupDocs.Annotation into SugarCRM. It allows you to view, securely share and annotate over 50 common document types, including PDF and Microsoft Word, directly from SugarCRM.
++* [GroupDocs HTML5 Document Viewer for Java](https://github.com/groupdocs/sugarcrm-viewer-java) - Powered by GroupDocs' HTML5 document viewer for Java library, this module allows you to display almost 50 document formats on your SugarCRM sites, including Microsoft Word, Excel, PowerPoint, Visio, and Outlook, OpenDocument files, CAD graphics and raster images.
 * [crm4office](https://github.com/sceemarla/crm4office) - Perform Mail Merge and Generate Reports using OpenOffice and SugarCRM.
 * [SugarGraphviz](https://github.com/gcoop-libre/sugar-graphviz) - draw entity diagram relationships of Sugar modules including custom tables.
 * [SynoGenerateDoc - create MS Office and Open Office docs](https://www.sugaroutfitters.com/addons/synogeneratedoc) on SugarOutfitters.com. 
