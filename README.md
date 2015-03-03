@@ -104,6 +104,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [What Time Is It? - see what time it is for any contact, etc](https://www.sugaroutfitters.com/addons/time-now) on SugarOutfitters.com. 
 
 ## Document Creation
+* [crm4office](https://github.com/sceemarla/crm4office) - Perform Mail Merge and Generate Reports using OpenOffice and SugarCRM.
 * [SugarGraphviz](https://github.com/gcoop-libre/sugar-graphviz) - draw entity diagram relationships of Sugar modules including custom tables.
 * [SynoGenerateDoc - create MS Office and Open Office docs](https://www.sugaroutfitters.com/addons/synogeneratedoc) on SugarOutfitters.com. 
 * [Mail Merge Reports - create docx, xlsx, odt, ods, and pdf files](https://www.sugaroutfitters.com/addons/mail-merge-reports) on SugarOutfitters.com. 
