@@ -190,6 +190,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Tally - accounting, finance, sales, inventory, payroll, etc](https://www.sugaroutfitters.com/addons/sugarcrm-tally-integration) on SugarOutfitters.com. 
 
 ## Reporting
+* [KReporter for SugarCRM CE - the widest used Reporting Solution](http://www.kreporter.org) on KReporter.org. 
 * [Reports for SugarCRM CE - ad-hoc and dashboard tools](https://www.sugaroutfitters.com/addons/reports-for-sugarcrm-ce) on SugarOutfitters.com. 
 * [Reporting Plugin - wizard to create reports](https://www.sugaroutfitters.com/addons/reporting-plugin) on SugarOutfitters.com. 
 
@@ -222,6 +223,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Quick2SMS SMS Messaging - outbound marketing via SMS](https://www.sugaroutfitters.com/addons/quick2sms-sugarcrm-fibrecrm) on SugarOutfitters.com. 
 
 ## Theme
+* [Google Style Theme for SugarCRM CE](https://www.sugaroutfitters.com/addons/google-style-sugartheme) on SugarOutfitters.com.
 * [Blue Theme for SugarCRM CE](http://www.youaddon.com/portfolio/detail/3/YouAddOn-Sugar-CRM-Blue-Theme-for-CE) on YouAddOn.com.
 * [Metro Theme for SugarCRM CE](http://www.youaddon.com/portfolio/detail/13/Sugar-CRM-Metro-Theme-Theme-for-CE) on YouAddOn.com.
 * [Salesforce Theme for SugarCRM CE](http://www.youaddon.com/portfolio/detail/6/Sugar-CRM-Salesforce-Theme-for-CE) on YouAddOn.com. 
