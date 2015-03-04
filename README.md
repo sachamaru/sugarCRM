@@ -152,6 +152,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Knowledge Management
 
 ## Language Packs
+* [French Language Pack](https://github.com/synolia/SynoSugarCRMFrenchLanguagePack) on GitHub.com. 
 * [Swedish Translation](https://www.sugaroutfitters.com/addons/swedish-translation-for-sugarcrm) on SugarOutfitters.com. 
 * [RUSSIAN RAPIRA LANGUAGE PACK](https://github.com/likhobory/SuiteCRM7RU) on GitHub.com. 
 
