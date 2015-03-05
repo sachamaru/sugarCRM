@@ -105,6 +105,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Deduplication Analysis - find existing duplicates](https://www.sugaroutfitters.com/addons/deduplication-analysis) on SugarOutfitters.com. 
 * [Insight Tooltips - save hundreds of clicks every day](https://www.sugaroutfitters.com/addons/insight-tooltips) on SugarOutfitters.com. 
 * [What Time Is It? - see what time it is for any contact, etc](https://www.sugaroutfitters.com/addons/time-now) on SugarOutfitters.com. 
+* [logiZip - Windows tool for module browsing and manifest deployment] (https://github.com/infospectrum/logiZip) - Deploy Logic Hooks and Custom Scheduler Jobs, plus Custom Directory Entries and Custom Fields via the Module Loader. Automates the manifest.php file content creation and generate a zip package for uploading.
 
 ## Document Creation & Management
 * [GroupDocs.Viewer](http://groupdocs.com/marketplace/plugins/viewer/sugarcrm) - This plugin for SugarCRM can be used to embed GroupDocs’ high-fidelity online document viewer, GroupDocs Viewer, along with selected documents to your SugarCRM webpages.
@@ -142,6 +143,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Implementation Services
 
 ## Installation
+* [logiZip - Windows tool for module browsing and manifest deployment] (https://github.com/infospectrum/logiZip) - Deploy Logic Hooks and Custom Scheduler Jobs, plus Custom Directory Entries and Custom Fields via the Module Loader. Automates the manifest.php file content creation and generate a zip package for uploading.
 
 ## Integration
 * [Currencies Exchange Rate Updater](http://github.com/jcsmorais/currencies-exchange-rate-updater) - SugarCRM package designed to ease the process of updating active currencies exchange rates with the help of external data sources.
