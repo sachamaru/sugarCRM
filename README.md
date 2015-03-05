@@ -145,6 +145,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Google Contacts Synchronization](https://www.sugaroutfitters.com/addons/google-contacts-synchronization) on SugarOutfitters.com.
 * [Join.Me - bringing Join.Me and SugarCRM together](https://www.sugaroutfitters.com/addons/joinme-meeting-integration) on SugarOutfitters.com.
 * [Marketo Connector - automatic lead conversion & more](https://www.sugaroutfitters.com/addons/marketo-connector) on SugarOutfitters.com.
+* [Open Exchange Rates library](http://github.com/jcsmorais/open-exchange-rates-lib-for-sugarcrm) - Package built to ease the pain of integrating the Open Exchange Rates library, a PHP abstraction for the services provided by Open Exchange Rates: a real-time exchange rates API for developers, in SugarCRM projects.
 * [SugarChimp - bringing MailChimp and SugarCRM together](https://www.sugaroutfitters.com/addons/SugarChimp) on SugarOutfitters.com.
 * [SugarCRM RubyGem](https://github.com/chicks/sugarcrm) - A ruby based REST Client for SugarCRM.
 * [Yathit InboxCRM: SugarCRM for Gmail](https://github.com/yathit/sugarcrm-gmail-chrome-extension) - Chrome extension to View/Create/Edit SugarCRM records, use  template in Gmail, track email and enhance with social media information.
