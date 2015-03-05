@@ -186,6 +186,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Project Management
 
 ## Quotes and Products
+* [OpenQuotesAndContracts - quotes/contracts/products/product catalog for SugarCE](https://github.com/andriusr/OpenQuotesAndContracts) on GitHub.com.
 * [Regoluna Invoices](http://regoluna.com/facturas_sugarcrm) Invoices and Quotes support for CE on Regoluna.com. 
 * [Tally - accounting, finance, sales, inventory, payroll, etc](https://www.sugaroutfitters.com/addons/sugarcrm-tally-integration) on SugarOutfitters.com. 
 
