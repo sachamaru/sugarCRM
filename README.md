@@ -141,6 +141,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Installation
 
 ## Integration
+* [Currencies Exchange Rate Updater](http://github.com/jcsmorais/currencies-exchange-rate-updater) - SugarCRM package designed to ease the process of updating active currencies exchange rates with the help of external data sources.
 * [GmailSync - sync emails, calendars, contacts, and docs with Google](https://www.sugaroutfitters.com/addons/gmail-sync) on SugarOutfitters.com.
 * [Google Contacts Synchronization](https://www.sugaroutfitters.com/addons/google-contacts-synchronization) on SugarOutfitters.com.
 * [Join.Me - bringing Join.Me and SugarCRM together](https://www.sugaroutfitters.com/addons/joinme-meeting-integration) on SugarOutfitters.com.
