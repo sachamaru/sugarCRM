@@ -164,7 +164,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Lead Management
 * [SugarTilkee - bringing Tilkee and SugarCRM together](https://github.com/timtilkee/tilkee-sugarcrm) - Tilkee is a simple SAAS tool used by sales teams to raise their closing rate, by tracking business proposal and forecast sales.
 * [ParseMyResume module for SugarCRM - bringing Resume Parsing to SugarCRM ](https://github.com/ParseMyResume/Module-for-SugarCRM) - ParseMyResume gives you ease of handling resumes, automating storage and retrieval of resumes as leads. Complete details from resumes gets parsed into different fields like first name, last name, experience etc which makes a lot easier for you to find out the standout candidates.
-* * [InsideView for Sales] (https://github.com/insideviewdev/sugarcrm) - InsideView Infuses SugarCRM with CRM Intelligence™ - Be Relevant. Sell Smarter. Grow Faster.
+* [InsideView for Sales] (https://github.com/insideviewdev/sugarcrm) - InsideView Infuses SugarCRM with CRM Intelligence™ - Be Relevant. Sell Smarter. Grow Faster.
 
 ## List Management
 * [Quick2List - self maintaining target lists](https://www.sugaroutfitters.com/addons/quick2list-sugarcrm-dynamic-target-list) on SugarOutfitters.com. 
