@@ -106,6 +106,8 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Insight Tooltips - save hundreds of clicks every day](https://www.sugaroutfitters.com/addons/insight-tooltips) on SugarOutfitters.com. 
 * [What Time Is It? - see what time it is for any contact, etc](https://www.sugaroutfitters.com/addons/time-now) on SugarOutfitters.com. 
 * [logiZip - Windows tool for module browsing and manifest deployment] (https://github.com/infospectrum/logiZip) - Deploy Logic Hooks and Custom Scheduler Jobs, plus Custom Directory Entries and Custom Fields via the Module Loader. Automates the manifest.php file content creation and generate a zip package for uploading.
+* [Google Autocomplete](https://github.com/aniesshsethh/GoogleAutocomplete) - Provides google autocomplete functionality to accounts, leads and contacts module of SugarCRM when filling in address. 
+
 
 ## Document Creation & Management
 * [GroupDocs.Viewer](http://groupdocs.com/marketplace/plugins/viewer/sugarcrm) - This plugin for SugarCRM can be used to embed GroupDocs’ high-fidelity online document viewer, GroupDocs Viewer, along with selected documents to your SugarCRM webpages.
