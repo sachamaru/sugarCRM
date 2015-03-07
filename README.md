@@ -149,6 +149,9 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [logiZip - Windows tool for module browsing and manifest deployment] (https://github.com/infospectrum/logiZip) - Deploy Logic Hooks and Custom Scheduler Jobs, plus Custom Directory Entries and Custom Fields via the Module Loader. Automates the manifest.php file content creation and generate a zip package for uploading.
 
 ## Integration
+* [ 1 - SugarCRM SMS Integration ] ( http://www.techextension.com/sugarcrm-suitecrm-sms-custom-module-integration.php ) This SugarCRM SMS Add-on provides feaures like send sms from crm and sms history in SugarCRM.
+* [ 1 - SugarCRM Tally Integration ] ( http://www.techextension.com/sugarcrm-suitecrm-tally-erp-custom-module-integration.php ) This SugarCRM Tally closing balance, Ledger, Bill by bill details , Account information and stock details in SuiteCRM.
+*  [ 1 - Click To Call SugarCRM Integration ] ( http://www.techextension.com/sugarcrm-click-to-call-integration.php ) This SugarCRM Module provides click to call or click to dail from SugarCRM.
 * [Currencies Exchange Rate Updater](http://github.com/jcsmorais/currencies-exchange-rate-updater) - SugarCRM package designed to ease the process of updating active currencies exchange rates with the help of external data sources.
 * [GmailSync - sync emails, calendars, contacts, and docs with Google](https://www.sugaroutfitters.com/addons/gmail-sync) on SugarOutfitters.com.
 * [Google Contacts Synchronization](https://www.sugaroutfitters.com/addons/google-contacts-synchronization) on SugarOutfitters.com.
@@ -232,6 +235,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Task Management
 
 ## Telephony Integration
+* [1 - SugarCRM Asterisk CTI Integration](http://www.techextension.com/sugarcrm-asterisk-integration.php) This SugarCRM Modules provides Click to Call, Call PopUp, Call Logs, Call Hang Up, Call Transfer and many custom features in CRM.
 * [Twilio - VOIP integration](https://www.sugaroutfitters.com/addons/twilio) on SugarOutfitters.com. 
 * [All-In-One CTI - call pops & more. Works with most popular PBXs](https://www.sugaroutfitters.com/addons/allinone-cti) on SugarOutfitters.com.
 * [Monema Phone System Connector](http://monema.es/en/services-telephony-business/sugar-crm-centralita-telefonica.html) - integrates Monema Phone System with SugarCRM allowing you to anotate all calls, and click2call.
