@@ -122,7 +122,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [crm4office](https://github.com/sceemarla/crm4office) - Perform Mail Merge and Generate Reports using OpenOffice and SugarCRM.
 * [SugarGraphviz](https://github.com/gcoop-libre/sugar-graphviz) - draw entity diagram relationships of Sugar modules including custom tables.
 * [SynoGenerateDoc - create MS Office and Open Office docs](https://www.sugaroutfitters.com/addons/synogeneratedoc) on SugarOutfitters.com. 
-* [Mail Merge Reports - create docx, xlsx, odt, ods, and pdf files](https://www.sugaroutfitters.com/addons/mail-merge-reports) on SugarOutfitters.com. 
+* [Mail Merge Reports](https://www.sugaroutfitters.com/addons/mail-merge-reports) on SugarOutfitters.com. Create documents in docx, xlsx (MS Office Word and Excel), odt, ods (LibreOffice and OpenOffice) and pdf format without MS Office or others plugins installed from any module and subpanel using templates.
 * [SugarPrint - export list, detail, and calendar views](https://www.sugaroutfitters.com/addons/sugarprint) on SugarOutfitters.com. 
 
 ## Electronic Signatures
@@ -173,7 +173,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 
 ## List Management
 * [Quick2List - self maintaining target lists](https://www.sugaroutfitters.com/addons/quick2list-sugarcrm-dynamic-target-list) on SugarOutfitters.com. 
-* [Advanced Marketing Lists - keeps target lists up-to-date automatically](https://www.sugaroutfitters.com/addons/advanced-marketing-lists) on SugarOutfitters.com. 
+* [Advanced Marketing Lists](https://www.sugaroutfitters.com/addons/advanced-marketing-lists) on SugarOutfitters.com. Advanced Marketing Lists helps organizations to meet the needs of creating custom Target Lists and keep them updated regularly with automated tasks.
 
 ## Migration
 
