@@ -232,6 +232,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Task Management
 
 ## Telephony Integration
+*[SugarCRM Asterisk CTI Integration](http://www.techextension.com/sugarcrm-asterisk-integration.php) This SugarCRM Modules provides Click to Call, Call PopUp, Call Logs, Call Hang Up, Call Transfer and many custom features in CRM
 * [Twilio - VOIP integration](https://www.sugaroutfitters.com/addons/twilio) on SugarOutfitters.com. 
 * [All-In-One CTI - call pops & more. Works with most popular PBXs](https://www.sugaroutfitters.com/addons/allinone-cti) on SugarOutfitters.com.
 * [Monema Phone System Connector](http://monema.es/en/services-telephony-business/sugar-crm-centralita-telefonica.html) - integrates Monema Phone System with SugarCRM allowing you to anotate all calls, and click2call.
