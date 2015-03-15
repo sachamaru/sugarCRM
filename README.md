@@ -86,6 +86,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Collaboration
 * [Collabro - collaboration tools all within Sugar](https://www.sugaroutfitters.com/addons/collabro) on SugarOutfitters.com. 
 * [Chitter - internal discussions on any record](https://www.sugaroutfitters.com/addons/chitter) on SugarOutfitters.com. 
+* [Comment module - write comment and get alert on any record](http://www.youaddon.com/portfolio/detail/7/Comments-module-for-SugarCRM) on YouAddOn.com. 
 
 ## Contact Management
 
@@ -102,6 +103,10 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Deduplication Analysis - find existing duplicates](https://www.sugaroutfitters.com/addons/deduplication-analysis) on SugarOutfitters.com. 
 * [Insight Tooltips - save hundreds of clicks every day](https://www.sugaroutfitters.com/addons/insight-tooltips) on SugarOutfitters.com. 
 * [What Time Is It? - see what time it is for any contact, etc](https://www.sugaroutfitters.com/addons/time-now) on SugarOutfitters.com. 
+* [Rating add-on - score/rating to any record](http://www.youaddon.com/portfolio/detail/12/Rating-Fields-addon-for-Sugar-CRM-CE) on YouAddOn.com. 
+* [Tag add-on - add label/tag to any record](http://www.youaddon.com/portfolio/detail/11/Tags-module-for-SugarCRM-CE) on YouAddOn.com. 
+* [Photo field add-on - add photo field to any module](http://www.youaddon.com/portfolio/detail/17/Photo-Fields-addon-for-SugarCRM-CE) on YouAddOn.com.
+* [File field add-on - add file field type to any module](http://www.youaddon.com/portfolio/detail/20/file-fields-addon-for-sugarcrm-ce) on YouAddOn.com.
 
 ## Document Creation
 * [SugarGraphviz](https://github.com/gcoop-libre/sugar-graphviz) - draw entity diagram relationships of Sugar modules including custom tables.
@@ -210,6 +215,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [All-In-One CTI - call pops & more. Works with most popular PBXs](https://www.sugaroutfitters.com/addons/allinone-cti) on SugarOutfitters.com.
 * [SMS Add-on - send SMS right from Sugar](https://www.sugaroutfitters.com/addons/sms-addon) on SugarOutfitters.com. 
 * [Quick2SMS SMS Messaging - outbound marketing via SMS](https://www.sugaroutfitters.com/addons/quick2sms-sugarcrm-fibrecrm) on SugarOutfitters.com. 
+* [Google sync module - Sync calendar & contacts between Google & SugarCRM](http://www.youaddon.com/portfolio/detail/22/Google-sync-module-for-SugarCRM-CE) on YouAddOn.com. 
 
 ## Theme
 * [Blue Theme for SugarCRM CE](http://www.youaddon.com/portfolio/detail/3/YouAddOn-Sugar-CRM-Blue-Theme-for-CE) on YouAddOn.com.
