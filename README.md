@@ -89,7 +89,8 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Collaboration
 * [Collabro - collaboration tools all within Sugar](https://www.sugaroutfitters.com/addons/collabro) on SugarOutfitters.com. 
 * [Chitter - internal discussions on any record](https://www.sugaroutfitters.com/addons/chitter) on SugarOutfitters.com. 
-
+* [Comment module - write comment and get alert on any record](http://www.youaddon.com/portfolio/detail/7/Comments-module-for-SugarCRM) on YouAddOn.com. 
+ 
 ## Contact Management
 * [InsideView for Sales] (https://github.com/insideviewdev/sugarcrm) - InsideView Infuses SugarCRM with CRM Intelligence™ - Be Relevant. Sell Smarter. Grow Faster.
 
@@ -106,6 +107,10 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Deduplication Analysis - find existing duplicates](https://www.sugaroutfitters.com/addons/deduplication-analysis) on SugarOutfitters.com. 
 * [Insight Tooltips - save hundreds of clicks every day](https://www.sugaroutfitters.com/addons/insight-tooltips) on SugarOutfitters.com. 
 * [What Time Is It? - see what time it is for any contact, etc](https://www.sugaroutfitters.com/addons/time-now) on SugarOutfitters.com. 
+* [Rating add-on - score/rating to any record](http://www.youaddon.com/portfolio/detail/12/Rating-Fields-addon-for-Sugar-CRM-CE) on YouAddOn.com. 
+* [Tag add-on - add label/tag to any record](http://www.youaddon.com/portfolio/detail/11/Tags-module-for-SugarCRM-CE) on YouAddOn.com. 
+* [Photo field add-on - add photo field to any module](http://www.youaddon.com/portfolio/detail/17/Photo-Fields-addon-for-SugarCRM-CE) on YouAddOn.com.
+* [File field add-on - add file field type to any module](http://www.youaddon.com/portfolio/detail/20/file-fields-addon-for-sugarcrm-ce) on YouAddOn.com.
 * [logiZip - Windows tool for module browsing and manifest deployment] (https://github.com/infospectrum/logiZip) - Deploy Logic Hooks and Custom Scheduler Jobs, plus Custom Directory Entries and Custom Fields via the Module Loader. Automates the manifest.php file content creation and generate a zip package for uploading.
 * [Google Autocomplete](https://github.com/aniesshsethh/GoogleAutocomplete) - Provides google autocomplete functionality to accounts, leads and contacts module of SugarCRM when filling in address. 
 
@@ -124,6 +129,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [SynoGenerateDoc - create MS Office and Open Office docs](https://www.sugaroutfitters.com/addons/synogeneratedoc) on SugarOutfitters.com. 
 * [Mail Merge Reports](https://www.sugaroutfitters.com/addons/mail-merge-reports) on SugarOutfitters.com. Create documents in docx, xlsx (MS Office Word and Excel), odt, ods (LibreOffice and OpenOffice) and pdf format without MS Office or others plugins installed from any module and subpanel using templates.
 * [SugarPrint - export list, detail, and calendar views](https://www.sugaroutfitters.com/addons/sugarprint) on SugarOutfitters.com. 
+* [Google sync module - Sync Calendar & Contacts between Google & Sugar](http://www.youaddon.com/portfolio/detail/22/Google-sync-module-for-SugarCRM-CE) - on YouAddOn.com.
 
 ## Electronic Signatures
 * [Drawing & Signature Field - sign receipts or make a mockups](https://www.sugaroutfitters.com/addons/drawing-field-module) on SugarOutfitters.com. 
