@@ -217,6 +217,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [KReporter for SugarCRM CE - the widest used Reporting Solution](http://www.kreporter.org) on KReporter.org. 
 * [Reports for SugarCRM CE - ad-hoc and dashboard tools](https://www.sugaroutfitters.com/addons/reports-for-sugarcrm-ce) on SugarOutfitters.com. 
 * [Reporting Plugin - wizard to create reports](https://www.sugaroutfitters.com/addons/reporting-plugin) on SugarOutfitters.com. 
+* [User Activities Module](https://github.com/UTAlan/Sugar-User-Activity-Module) - Installs a custom module in SugarCRM that allows you to view all Activities in a single List View.
 
 ## Sales Performance Optimization
 * [AlineaSol Sales](https://www.alineasol.com/en/sugarapps/sales) - AlineaSol Sales provides dashlet enhancements for date management. Similar date filtering as in AlineaSol reports (only one filter supported here though). Supports natural and fiscal years.
