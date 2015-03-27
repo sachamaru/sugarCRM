@@ -190,6 +190,8 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Mobile
 * [QuickCRM Basic](https://github.com/QuickCRM/QuickCRM-Basic/releases) on GitHub.
 * [QuickCRM Full](http://www.quickcrm.fr/mobile) on www.quickcrm.fr/mobile (Compare Basic and Full editions : http://www.quickcrm.fr/mobile/en/content/11-quickcrm-editions-comparison).
+* [Jet Mobile Lite](http://letrium.com/jetmobile-lite/) on Letrium.com. 
+* [Jet Mobile Pro](http://letrium.com/products/jet-mobile/) on Letrium.com. Mobile Browser Application for SugarCRM (Mobile and Tablet devices). Jet Mobile lets your mobile users view, create, and modify your existing data in SugarCRM by using a mobile device with a Web browser.
 
  
 ## Opportunity Management
