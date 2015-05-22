@@ -74,6 +74,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [ETLS - Extract, Transform, and Load data to and from SugarCRM](https://www.sugaroutfitters.com/addons/ETLS) on SugarOutfitters.com
 
 ## Calendaring
+* [Activities Sync - Use your native calendar on your favorite device](https://www.sugaroutfitters.com/addons/activities-sync) on SugarOutfitters.com
 * [SugarCAL - Real-time sync between SugarCE Calendar and Google](https://sourceforge.net/projects/sugarcal/) on Sourceforge.net.
 * [SynoCalendar - Make your calendar work like Gmail or Outlook](https://www.sugaroutfitters.com/addons/SynoCalendar) on SugarOutfitters.com
 
@@ -242,11 +243,13 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Photo Field - add a photo field to any module](https://www.sugaroutfitters.com/addons/photo) on SugarOutfitters.com  
 * [CM & Sugar Sequencing Field - a number system for your records](https://www.sugaroutfitters.com/addons/cm-sugar-sequencing-addon) on SugarOutfitters.com  
 * [Dropdown Editor - grant edit rights to specific users](https://www.sugaroutfitters.com/addons/dropdown-editor-for-all-sugarcrm-users) on SugarOutfitters.com
+* [Dynamic Dropdown Pro - add to dropdown lists quickly - allocate users](https://www.sugaroutfitters.com/addons/dynamic-dropdown-pro) on SugarOutfitters.com
 * [Dropdowns as Checkboxes - advanced functionality to simplify data entry](https://www.sugaroutfitters.com/addons/multienum-as-checkboxes) on SugarOutfitters.com
 * [Audit Calls - add the ability to audit the calls module](https://www.sugaroutfitters.com/addons/audit-calls) on SugarOutfitters.com
 * [Audit Meetings - add the ability to audit the meetings module](https://www.sugaroutfitters.com/addons/audit-meetings) on SugarOutfitters.com
 * [Audit Tasks - add the ability to audit the tasks module](https://www.sugaroutfitters.com/addons/audit-tasks) on SugarOutfitters.com
 * [SQL Query - query the db right from Sugar](https://www.sugaroutfitters.com/addons/SQLQuery) on SugarOutfitters.com
+* [Maintenance Mode Module - turn off access to SugarCRM temporarily while you upgrade your servers](https://www.sugaroutfitters.com/addons/maintenance-mode-module) on SugarOutfitters.com
 
 ## Task Management
 
