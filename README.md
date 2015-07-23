@@ -255,6 +255,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Task Management
 
 ## Telephony Integration
+* [Callinize](http://www.callinize.com/) SaaS service that connects over 100 phone systems with SugarCRM. Callinize provides Click-to-Dial, Call PopUp, Call Logs, Call Analytics, Natural Language Processor, Task Creation, and more. 
 * [1 - SugarCRM Asterisk CTI Integration](http://www.techextension.com/sugarcrm-asterisk-integration.php) This SugarCRM Modules provides Click to Call, Call PopUp, Call Logs, Call Hang Up, Call Transfer and many custom features in CRM.
 * [Twilio - VOIP integration](https://www.sugaroutfitters.com/addons/twilio) on SugarOutfitters.com 
 * [All-In-One CTI - call pops & more. Works with most popular PBXs](https://www.sugaroutfitters.com/addons/allinone-cti) on SugarOutfitters.com
