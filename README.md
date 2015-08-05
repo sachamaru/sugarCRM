@@ -107,6 +107,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Duplicate Detector - warns of possible duplicates upon entry](https://www.sugaroutfitters.com/addons/duplicate-detector) on SugarOutfitters.com 
 * [Deduplication Preventive - stops duplicates before they start](https://www.sugaroutfitters.com/addons/deduplication-preventive) on SugarOutfitters.com 
 * [Deduplication Analysis - find existing duplicates](https://www.sugaroutfitters.com/addons/deduplication-analysis) on SugarOutfitters.com 
+* [Duplicity Checker](http://www.isfgroup.cz/en/sugarcrm-modules/isfgroup-duplicity-checker) - Automatically checks duplicates in Leads and Accounts 
 * [Insight Tooltips - save hundreds of clicks every day](https://www.sugaroutfitters.com/addons/insight-tooltips) on SugarOutfitters.com 
 * [What Time Is It? - see what time it is for any contact, etc](https://www.sugaroutfitters.com/addons/time-now) on SugarOutfitters.com 
 * [Rating add-on - score/rating to any record](http://www.youaddon.com/portfolio/detail/12/Rating-Fields-addon-for-Sugar-CRM-CE) on YouAddOn.com. 
