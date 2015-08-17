@@ -278,5 +278,6 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Workflow
 * [Advanced Workflows](https://github.com/gcoop-libre/sugarcrm_advanced_workflows) This workflow engine is inspired by Sebastian Bergman "Design and Implementation of Workflow Engine" paper.
 * [AlineaSol Work Flow Manager](https://www.alineasol.com/en/sugarapps/wfm) - AlineaSol Work Flow Manager provides a GUI to  set-up automated Work Flow Processes within SugarCRM. This module targets power users.
+* [Escalation by ISFGroup.cz](http://www.isfgroup.cz/en/sugarcrm-modules/escalation) - Reminds you what you don't want forget. Allows you to set notification for both user and chief when any status is not changed.
 * [Process Manager Enterprise - automate your business processes](https://www.sugaroutfitters.com/addons/process-manager-enterprise) on SugarOutfitters.com 
 * [Project Task Notifications - get notified when assigned a project task](https://www.sugaroutfitters.com/addons/email-notification-enabled-for-project-task) on SugarOutfitters.com 
