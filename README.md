@@ -116,6 +116,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [File field add-on - add file field type to any module](http://www.youaddon.com/portfolio/detail/20/file-fields-addon-for-sugarcrm-ce) on YouAddOn.com.
 * [logiZip - Windows tool for module browsing and manifest deployment] (https://github.com/infospectrum/logiZip) - Deploy Logic Hooks and Custom Scheduler Jobs, plus Custom Directory Entries and Custom Fields via the Module Loader. Automates the manifest.php file content creation and generate a zip package for uploading.
 * [Google Autocomplete](https://github.com/aniesshsethh/GoogleAutocomplete) - Provides google autocomplete functionality to accounts, leads and contacts module of SugarCRM when filling in address. 
+* [Kanban view for Opportunities module](http://www.youaddon.com/portfolio/detail/30/kanban-view-for-opportunities-module) on YouAddOn.com 
 
 
 ## Document Creation & Management
@@ -214,6 +215,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [SugaryCB - bringing Joomla and SugarCRM together](https://www.sugaroutfitters.com/addons/sugarycb) on SugarOutfitters.com 
 * [Customer Support Portal - cases, bugs, leads and more](https://www.sugaroutfitters.com/addons/customer-support-portal) on SugarOutfitters.com
 * [Freshdesk Connector - support portal and more](https://www.sugaroutfitters.com/addons/freshdesk-sugar-connector) on SugarOutfitters.com
+* [Customer Portal for SugarCRM CE](http://www.youaddon.com/portfolio/detail/31/customer-portal-for-sugarcrm-ce) on YouAddOn.com
 
 ## Project Management
 * [AlineaSol Project Management](https://www.alineasol.com/en/sugarapps/project) - AlineaSol Project Management offer a GUI to create GANTTs and manage projects. Can be combined with AlineaSol Reports and WFM for sophisticated applications.
@@ -238,6 +240,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 
 ## Security
 * [SecuritySuite - Teams for SugarCRM CE](https://www.sugaroutfitters.com/addons/securitysuite) on SugarOutfitters.com 
+* [Permission Org Chart for SugarCRM](http://www.youaddon.com/portfolio/detail/29/permission-org-chart-for-sugar-crm) on YouAddOn.com
 
 ## System Administration
 * [Kickoff - run any scheduled/queued job at any time](https://www.sugaroutfitters.com/addons/kickoff-manual-sugarcrm-scheduler-tool) on SugarOutfitters.com 
