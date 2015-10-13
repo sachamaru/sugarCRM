@@ -105,6 +105,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Score & Rate Your Records](https://www.sugaroutfitters.com/addons/rating-field-module) on SugarOutfitters.com 
 * [Enforce Field Formats - keeps data consistent](https://www.sugaroutfitters.com/addons/SynoFieldMask) on SugarOutfitters.com 
 * [Duplicate Detector - warns of possible duplicates upon entry](https://www.sugaroutfitters.com/addons/duplicate-detector) on SugarOutfitters.com 
+* [Duplicity Checker by ISFGroup.cz](http://www.isfgroup.cz/en/sugarcrm-modules/isfgroup-duplicity-checker) - Automatically checks duplicates in Leads and Accounts 
 * [Deduplication Preventive - stops duplicates before they start](https://www.sugaroutfitters.com/addons/deduplication-preventive) on SugarOutfitters.com 
 * [Deduplication Analysis - find existing duplicates](https://www.sugaroutfitters.com/addons/deduplication-analysis) on SugarOutfitters.com 
 * [Insight Tooltips - save hundreds of clicks every day](https://www.sugaroutfitters.com/addons/insight-tooltips) on SugarOutfitters.com 
@@ -115,6 +116,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [File field add-on - add file field type to any module](http://www.youaddon.com/portfolio/detail/20/file-fields-addon-for-sugarcrm-ce) on YouAddOn.com.
 * [logiZip - Windows tool for module browsing and manifest deployment] (https://github.com/infospectrum/logiZip) - Deploy Logic Hooks and Custom Scheduler Jobs, plus Custom Directory Entries and Custom Fields via the Module Loader. Automates the manifest.php file content creation and generate a zip package for uploading.
 * [Google Autocomplete](https://github.com/aniesshsethh/GoogleAutocomplete) - Provides google autocomplete functionality to accounts, leads and contacts module of SugarCRM when filling in address. 
+* [Kanban view for Opportunities module](http://www.youaddon.com/portfolio/detail/30/kanban-view-for-opportunities-module) on YouAddOn.com 
 
 
 ## Document Creation & Management
@@ -140,6 +142,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [GrinMark Outlook 365 Plugin for SugarCRM - archive emails and 2-way contact sync](https://www.sugaroutfitters.com/addons/grinmark-outlook-365-addin-for-sugarcrm) on SugarOutfitters.com
 * [GmailSync - sync emails, calendars, contacts, and docs with Google](https://www.sugaroutfitters.com/addons/gmail-sync) on SugarOutfitters.com 
 * [Quick2Email Mass Email - mass send personalized emails](https://www.sugaroutfitters.com/addons/quick2email-sugarcrm-email-tool) on SugarOutfitters.com 
+* [Sugar Email Archiver by ISFGroup.cz](http://www.isfgroup.cz/en/sugarcrm-modules/isfgroup-email-archiver) - Automatic email archiving to Leads, Contacts and Accounts.
 
 ## Email Marketing
 * [SugarChimp - bringing MailChimp and SugarCRM together](https://www.sugaroutfitters.com/addons/SugarChimp) on SugarOutfitters.com 
@@ -212,6 +215,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [SugaryCB - bringing Joomla and SugarCRM together](https://www.sugaroutfitters.com/addons/sugarycb) on SugarOutfitters.com 
 * [Customer Support Portal - cases, bugs, leads and more](https://www.sugaroutfitters.com/addons/customer-support-portal) on SugarOutfitters.com
 * [Freshdesk Connector - support portal and more](https://www.sugaroutfitters.com/addons/freshdesk-sugar-connector) on SugarOutfitters.com
+* [Customer Portal for SugarCRM CE](http://www.youaddon.com/portfolio/detail/31/customer-portal-for-sugarcrm-ce) on YouAddOn.com
 
 ## Project Management
 * [AlineaSol Project Management](https://www.alineasol.com/en/sugarapps/project) - AlineaSol Project Management offer a GUI to create GANTTs and manage projects. Can be combined with AlineaSol Reports and WFM for sophisticated applications.
@@ -222,6 +226,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Tally - accounting, finance, sales, inventory, payroll, etc](https://www.sugaroutfitters.com/addons/sugarcrm-tally-integration) on SugarOutfitters.com 
 
 ## Reporting
+* [ACTIVITY TRACKING REPORT ](http://www.techextension.com/crm-sugarcrm-suitecrm-report-user-activity-tracking.php) - SugarCRM / SuiteCRM User Activity tracking Report tracks crm user's activities of Lead, contact, Account, opportunity, project, case, task and Quote module from SugarCRM or SuitecRM ( CRM ).
 * [AlineaSol Reports](https://www.alineasol.com/en/sugarapps/reports) - AlineaSol Reports gives strong reporting capabilities to Sugar. It supports different graphical engines, table output, exports in different formats, scheduled reports, interactive graphics, etc.
 * [KReporter for SugarCRM CE - the widest used Reporting Solution](http://www.kreporter.org) on KReporter.org. 
 * [Reports for SugarCRM CE - ad-hoc and dashboard tools](https://www.sugaroutfitters.com/addons/reports-for-sugarcrm-ce) on SugarOutfitters.com 
@@ -235,6 +240,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 
 ## Security
 * [SecuritySuite - Teams for SugarCRM CE](https://www.sugaroutfitters.com/addons/securitysuite) on SugarOutfitters.com 
+* [Permission Org Chart for SugarCRM](http://www.youaddon.com/portfolio/detail/29/permission-org-chart-for-sugar-crm) on YouAddOn.com
 
 ## System Administration
 * [Kickoff - run any scheduled/queued job at any time](https://www.sugaroutfitters.com/addons/kickoff-manual-sugarcrm-scheduler-tool) on SugarOutfitters.com 
@@ -254,6 +260,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Task Management
 
 ## Telephony Integration
+* [Callinize](http://www.callinize.com/) SaaS service that connects over 100 phone systems with SugarCRM. Callinize provides Click-to-Dial, Call PopUp, Call Logs, Call Analytics, Natural Language Processor, Task Creation, and more. 
 * [1 - SugarCRM Asterisk CTI Integration](http://www.techextension.com/sugarcrm-asterisk-integration.php) This SugarCRM Modules provides Click to Call, Call PopUp, Call Logs, Call Hang Up, Call Transfer and many custom features in CRM.
 * [Twilio - VOIP integration](https://www.sugaroutfitters.com/addons/twilio) on SugarOutfitters.com 
 * [All-In-One CTI - call pops & more. Works with most popular PBXs](https://www.sugaroutfitters.com/addons/allinone-cti) on SugarOutfitters.com
@@ -266,6 +273,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Blue Theme for SugarCRM CE](http://www.youaddon.com/portfolio/detail/3/YouAddOn-Sugar-CRM-Blue-Theme-for-CE) on YouAddOn.com.
 * [Metro Theme for SugarCRM CE](http://www.youaddon.com/portfolio/detail/13/Sugar-CRM-Metro-Theme-Theme-for-CE) on YouAddOn.com.
 * [Salesforce Theme for SugarCRM CE](http://www.youaddon.com/portfolio/detail/6/Sugar-CRM-Salesforce-Theme-for-CE) on YouAddOn.com. 
+* [Caro Theme for SugarCRM CE](http://www.youaddon.com/portfolio/detail/28/the-new-sugar-crm-caro-theme-for-ce) on YouAddOn.com.
 
 ## Training
 
@@ -274,5 +282,6 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Workflow
 * [Advanced Workflows](https://github.com/gcoop-libre/sugarcrm_advanced_workflows) This workflow engine is inspired by Sebastian Bergman "Design and Implementation of Workflow Engine" paper.
 * [AlineaSol Work Flow Manager](https://www.alineasol.com/en/sugarapps/wfm) - AlineaSol Work Flow Manager provides a GUI to  set-up automated Work Flow Processes within SugarCRM. This module targets power users.
+* [Escalation by ISFGroup.cz](http://www.isfgroup.cz/en/sugarcrm-modules/escalation) - Reminds you what you don't want forget. Allows you to set notification for both user and chief when any status is not changed.
 * [Process Manager Enterprise - automate your business processes](https://www.sugaroutfitters.com/addons/process-manager-enterprise) on SugarOutfitters.com 
 * [Project Task Notifications - get notified when assigned a project task](https://www.sugaroutfitters.com/addons/email-notification-enabled-for-project-task) on SugarOutfitters.com 
