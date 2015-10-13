@@ -64,6 +64,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [AlineaSol Publish Home Page](https://www.alineasol.com/en/sugarapps/homepage) - AlineaSol Publish Home Page allows you to create a multi-tab dashboards as your home-page. It supports role management so that different dashboards can be created for each role.
 * [Business Accounts & Partners - keep your vendors separate](https://www.sugaroutfitters.com/addons/business-accounts-and-partners) on SugarOutfitters.com 
 * [InsideView for Sales] (https://github.com/insideviewdev/sugarcrm) - InsideView Infuses SugarCRM with CRM Intelligence™ - Be Relevant. Sell Smarter. Grow Faster.
+* [BaseContactAdd - Faster data entry for accounts](https://www.sugaroutfitters.com/addons/basecontactadd) on SugarOutfitters.com
 
 ## Backup and Recovery
 
@@ -77,11 +78,12 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Activities Sync - Use your native calendar on your favorite device](https://www.sugaroutfitters.com/addons/activities-sync) on SugarOutfitters.com
 * [SugarCAL - Real-time sync between SugarCE Calendar and Google](https://sourceforge.net/projects/sugarcal/) on Sourceforge.net.
 * [SynoCalendar - Make your calendar work like Gmail or Outlook](https://www.sugaroutfitters.com/addons/SynoCalendar) on SugarOutfitters.com
+* [Google Calendar Integration - meetings and calls](https://www.sugaroutfitters.com/addons/google-calendar-integration-for-sugarcrm-ce) on SugarOutfitters.com
 
 ## Campaign Management
 
 ## Case Management
-* [SuperTimesheet - track billable hours on projects, project tasks & cases](https://www.sugaroutfitters.com/addons/supertimesheet) on SugarOutfitters.com
+* [Freshdesk Connector - support portal and more](https://www.sugaroutfitters.com/addons/freshdesk-sugar-connector) on SugarOutfitters.com
 
 ## CE Code and Zips
 * [Source code for CE](https://github.com/sugarcrm/sugarcrm_dev) on git .
@@ -117,6 +119,8 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [logiZip - Windows tool for module browsing and manifest deployment] (https://github.com/infospectrum/logiZip) - Deploy Logic Hooks and Custom Scheduler Jobs, plus Custom Directory Entries and Custom Fields via the Module Loader. Automates the manifest.php file content creation and generate a zip package for uploading.
 * [Google Autocomplete](https://github.com/aniesshsethh/GoogleAutocomplete) - Provides google autocomplete functionality to accounts, leads and contacts module of SugarCRM when filling in address. 
 * [Kanban view for Opportunities module](http://www.youaddon.com/portfolio/detail/30/kanban-view-for-opportunities-module) on YouAddOn.com 
+* [Kanban View - Visualize and manage your "work in progress" by dragging and dropping your records.](https://www.sugaroutfitters.com/addons/kanban-view) on SugarOutfitters.com. Works for any module and is great for sales pipelines, leads pipeline, account pipeline, support team boards, project management, and more.
+* [QuickEditS - spreadsheet like editing](https://www.sugaroutfitters.com/addons/quickedits) on SugarOutfitters.com
 
 
 ## Document Creation & Management
@@ -136,7 +140,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Google sync module - Sync Calendar & Contacts between Google & Sugar](http://www.youaddon.com/portfolio/detail/22/Google-sync-module-for-SugarCRM-CE) - on YouAddOn.com.
 
 ## Electronic Signatures
-* [Drawing & Signature Field - sign receipts or make a mockups](https://www.sugaroutfitters.com/addons/drawing-field-module) on SugarOutfitters.com 
+* [Drawing & Signature Field - sign receipts or draw up a mockup](https://www.sugaroutfitters.com/addons/drawing-field-module) on SugarOutfitters.com 
 
 ## Email
 * [GrinMark Outlook 365 Plugin for SugarCRM - archive emails and 2-way contact sync](https://www.sugaroutfitters.com/addons/grinmark-outlook-365-addin-for-sugarcrm) on SugarOutfitters.com
@@ -174,7 +178,8 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Open Exchange Rates library](http://github.com/jcsmorais/open-exchange-rates-lib-for-sugarcrm) - Package built to ease the pain of integrating the Open Exchange Rates library, a PHP abstraction for the services provided by Open Exchange Rates: a real-time exchange rates API for developers, in SugarCRM projects.
 * [SugarChimp - bringing MailChimp and SugarCRM together](https://www.sugaroutfitters.com/addons/SugarChimp) on SugarOutfitters.com
 * [SugarCRM RubyGem](https://github.com/chicks/sugarcrm) - A ruby based REST Client for SugarCRM.
-* [Yathit InboxCRM: SugarCRM for Gmail](https://github.com/yathit/sugarcrm-gmail-chrome-extension) - Chrome extension to View/Create/Edit SugarCRM records, use  template in Gmail, track email and enhance with social media information.
+* [Yathit InboxCRM: SugarCRM for Gmail](https://www.sugaroutfitters.com/addons/yathit-crmininbox-sugarcrm-for-gmail) on SugarOutfitters.com. Chrome extension to View/Create/Edit SugarCRM records, use  template in Gmail, track email and enhance with social media information.
+* [Google Calendar Integration - meetings and calls](https://www.sugaroutfitters.com/addons/google-calendar-integration-for-sugarcrm-ce) on SugarOutfitters.com
 
 ## Knowledge Management
 
@@ -208,6 +213,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [SugarTilkee - bringing Tilkee and SugarCRM together](https://github.com/timtilkee/tilkee-sugarcrm) - Tilkee is a simple SAAS tool used by sales teams to raise their closing rate, by tracking business proposal and forecast sales.
 * [Oportunity Org Chart - quickly identify key stackholders](https://www.sugaroutfitters.com/addons/loaded-advanced-opportunity-organization-chart) on SugarOutfitters.com 
 * [OportunitiesAlerts - opportunities sent to your inbox](https://www.sugaroutfitters.com/addons/opportunitiesalerts) on SugarOutfitters.com 
+* [Kanban View - Mange your sales pipeline](https://www.sugaroutfitters.com/addons/kanban-view) on SugarOutfitters.com. 
 
 ## Order Management
 
@@ -278,6 +284,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Training
 
 ## Web Self-Service
+* [Freshdesk Connector - support portal and more](https://www.sugaroutfitters.com/addons/freshdesk-sugar-connector) on SugarOutfitters.com
 
 ## Workflow
 * [Advanced Workflows](https://github.com/gcoop-libre/sugarcrm_advanced_workflows) This workflow engine is inspired by Sebastian Bergman "Design and Implementation of Workflow Engine" paper.
@@ -285,3 +292,4 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Escalation by ISFGroup.cz](http://www.isfgroup.cz/en/sugarcrm-modules/escalation) - Reminds you what you don't want forget. Allows you to set notification for both user and chief when any status is not changed.
 * [Process Manager Enterprise - automate your business processes](https://www.sugaroutfitters.com/addons/process-manager-enterprise) on SugarOutfitters.com 
 * [Project Task Notifications - get notified when assigned a project task](https://www.sugaroutfitters.com/addons/email-notification-enabled-for-project-task) on SugarOutfitters.com 
+* [Workflow Task Engine for power users](https://www.sugaroutfitters.com/addons/workflow-task-engine) on SugarOutfitters.com
