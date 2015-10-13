@@ -140,7 +140,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Google sync module - Sync Calendar & Contacts between Google & Sugar](http://www.youaddon.com/portfolio/detail/22/Google-sync-module-for-SugarCRM-CE) - on YouAddOn.com.
 
 ## Electronic Signatures
-* [Drawing & Signature Field - sign receipts or make a mockups](https://www.sugaroutfitters.com/addons/drawing-field-module) on SugarOutfitters.com 
+* [Drawing & Signature Field - sign receipts or draw up a mockup](https://www.sugaroutfitters.com/addons/drawing-field-module) on SugarOutfitters.com 
 
 ## Email
 * [GrinMark Outlook 365 Plugin for SugarCRM - archive emails and 2-way contact sync](https://www.sugaroutfitters.com/addons/grinmark-outlook-365-addin-for-sugarcrm) on SugarOutfitters.com
