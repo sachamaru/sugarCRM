@@ -83,7 +83,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Campaign Management
 
 ## Case Management
-* [SuperTimesheet - track billable hours on projects, project tasks & cases](https://www.sugaroutfitters.com/addons/supertimesheet) on SugarOutfitters.com
+* [Freshdesk Connector - support portal and more](https://www.sugaroutfitters.com/addons/freshdesk-sugar-connector) on SugarOutfitters.com
 
 ## CE Code and Zips
 * [Source code for CE](https://github.com/sugarcrm/sugarcrm_dev) on git .
