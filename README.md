@@ -218,6 +218,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Order Management
 
 ## Portal
+* [WordPress Customer Portal - Accounts, Contacts, Leads, Opps and much, much more...](https://www.sugaroutfitters.com/addons/wordpress-customer-portal-pro) on SugarOutfitters.com 
 * [SugaryCB - bringing Joomla and SugarCRM together](https://www.sugaroutfitters.com/addons/sugarycb) on SugarOutfitters.com 
 * [Customer Support Portal - cases, bugs, leads and more](https://www.sugaroutfitters.com/addons/customer-support-portal) on SugarOutfitters.com
 * [Freshdesk Connector - support portal and more](https://www.sugaroutfitters.com/addons/freshdesk-sugar-connector) on SugarOutfitters.com
@@ -285,6 +286,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 
 ## Web Self-Service
 * [Freshdesk Connector - support portal and more](https://www.sugaroutfitters.com/addons/freshdesk-sugar-connector) on SugarOutfitters.com
+* [WordPress Customer Portal - Accounts, Contacts, Leads, Opps and much, much more...](https://www.sugaroutfitters.com/addons/wordpress-customer-portal-pro) on SugarOutfitters.com 
 
 ## Workflow
 * [Advanced Workflows](https://github.com/gcoop-libre/sugarcrm_advanced_workflows) This workflow engine is inspired by Sebastian Bergman "Design and Implementation of Workflow Engine" paper.
